@@ -55,7 +55,7 @@
 #define MAX_THREADS         512
 #define MIN_FILE_SIZE        512
 // changing 6 to 16, 3/5/13
-#define MIN_ELEM_COUNT     16
+#define MIN_ELEM_COUNT     10
 #define MIN_REF_ELEM_COUNT  64
 #define POP_WIN_SIZE        64
 #define SD_SCORE_SCALE      0.3
